@@ -1,6 +1,7 @@
 package cash
 
 type Cache struct{
+   
 	userId int
 }
 
